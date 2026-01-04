@@ -1,6 +1,6 @@
 # Hi, ich bin Martin 👋
 
-**Technical Lead bei [ProcessCube](https://processcube.io)** aus Gelsenkirchen
+**Technical Lead bei [ProcessCube](https://www.processcube.io)** aus Gelsenkirchen
 
 Ich arbeite an der Schnittstelle zwischen prozessbasierter Softwareentwicklung und KI-gestützter Automatisierung. Mein Fokus liegt darauf, Entwicklungsprozesse intelligenter und effizienter zu gestalten.
 
@@ -22,7 +22,7 @@ Ich arbeite an der Schnittstelle zwischen prozessbasierter Softwareentwicklung u
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-martin--moellenbeck-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/martin-moellenbeck/)
 [![X](https://img.shields.io/badge/X-@moellenbeck-black?style=flat&logo=x)](https://x.com/moellenbeck)
-[![ProcessCube](https://img.shields.io/badge/ProcessCube-processcube.io-green?style=flat)](https://processcube.io)
+[![ProcessCube](https://img.shields.io/badge/ProcessCube-processcube.io-green?style=flat)](https://www.processcube.io)
 
 ---
 
