@@ -1,8 +1,8 @@
 # Hi, ich bin Martin 👋
 
-**Technical Lead bei [ProcessCube](https://www.processcube.io)** aus Gelsenkirchen
+**Technical Lead bei [ProcessCube](https://www.processcube.io)** aus dem Ruhrgebiet
 
-Ich arbeite an der Schnittstelle zwischen prozessbasierter Softwareentwicklung und KI-gestützter Automatisierung. Mein Fokus liegt darauf, Entwicklungsprozesse intelligenter und effizienter zu gestalten.
+Ich arbeite an der Schnittstelle zwischen prozessbasierter Softwareentwicklung und KI-gestützter Automatisierung – und finde es jeden Tag spannend, wie viel sich in diesem Bereich gerade bewegt. Mein Fokus liegt darauf, Entwicklungsprozesse intelligenter und effizienter zu gestalten.
 
 ## Was mich antreibt
 
@@ -13,11 +13,20 @@ Ich arbeite an der Schnittstelle zwischen prozessbasierter Softwareentwicklung u
 
 ## Aktuelle Projekte
 
-- **MCP-Integrationen** für Claude und andere KI-Assistenten
-- **Node-RED Nodes** für Paperless-ngx und Remember the Milk
-- Erweiterungen rund um **xlwings** und Excel-Automatisierung
-- **DMN Engine** Beispiele und Tutorials
+- **Claude Code** – AI-gestütztes Coding als echten Gamechanger im Entwicklungsalltag einsetzen
+- **MCP-Server für ProcessCube** – KI-Assistenten direkt in BPMN-Prozesse integrieren
+- **BPMN-Workshops & Schulungen** – Prozessdenken und Modellierung für Teams greifbar machen
+- **Payload CMS & Next.js** – Moderne Web-Architekturen für prozessgetriebene Anwendungen
 
+## Kontakt
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-martin--moellenbeck-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/martin-moellenbeck/)
+[![X](https://img.shields.io/badge/X-@moellenbeck-black?style=flat&logo=x)](https://x.com/moellenbeck)
+[![ProcessCube](https://img.shields.io/badge/ProcessCube-processcube.io-green?style=flat)](https://www.processcube.io)
+
+-----
+
+*Arctic Code Vault Contributor* 🏔️
 ## Kontakt
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-martin--moellenbeck-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/martin-moellenbeck/)
