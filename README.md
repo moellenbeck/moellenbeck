@@ -9,7 +9,8 @@ Ich arbeite an der Schnittstelle zwischen prozessbasierter Softwareentwicklung u
 🔧 **Prozessautomatisierung** – Workflows optimieren und automatisieren mit BPMN und DMN  
 🤖 **AI-Integration** – KI-Tools sinnvoll in Entwicklungsprozesse einbinden  
 🏠 **Smart Home** – Home Assistant und IoT-Experimente in der Freizeit  
-🔌 **Node-RED** – Low-Code-Automatisierung für verschiedenste Anwendungsfälle
+🔌 **Node-RED** – Low-Code-Automatisierung für verschiedenste Anwendungsfälle  
+🐾 **Autonome Agenten-Teams** – Mit [OpenClaw](https://docs.openclaw.ai), [Antfarm](https://antfarm.cool) und [Paperclip](https://paperclip.ing) echte Geschäftsprozesse durch spezialisierte AI-Agenten automatisieren – von der Feature-Entwicklung bis zur unternehmensweiten Prozessorchestrierung
 
 ## Aktuelle Projekte
 
@@ -25,14 +26,5 @@ Ich arbeite an der Schnittstelle zwischen prozessbasierter Softwareentwicklung u
 [![ProcessCube](https://img.shields.io/badge/ProcessCube-processcube.io-green?style=flat)](https://www.processcube.io)
 
 -----
-
-*Arctic Code Vault Contributor* 🏔️
-## Kontakt
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-martin--moellenbeck-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/martin-moellenbeck/)
-[![X](https://img.shields.io/badge/X-@moellenbeck-black?style=flat&logo=x)](https://x.com/moellenbeck)
-[![ProcessCube](https://img.shields.io/badge/ProcessCube-processcube.io-green?style=flat)](https://www.processcube.io)
-
----
 
 *Arctic Code Vault Contributor* 🏔️
