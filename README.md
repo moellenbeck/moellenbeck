@@ -6,11 +6,11 @@ KI-gestützter Automatisierung. Mein Leitgedanke: KI nicht *neben* den Prozess s
 sondern *hinein* — als Teilnehmer mit klarer Rolle, Freigabe und Nachweis.
 
 ## Was mich antreibt
-🔧 **Prozessautomatisierung** – Workflows optimieren und automatisieren mit BPMN und DMN  
-🤖 **AI-Integration** – KI-Agenten als Teilnehmer in ausführbaren Prozessen, nicht als Black-Box daneben  
-🐾 **Autonome Agenten-Teams** – [OpenClaw](https://openclaw.ai)-Contributor (seit heute 🎉) · auf OpenClaw-Basis entsteht die [ProcessCube Agent Runtime](https://docs.processcube.io/agents) — Agenten in echten BPMN-Prozessen  
-🏠 **Smart Home** – Home Assistant und IoT-Experimente in der Freizeit  
-🔌 **Node-RED** – Low-Code-Automatisierung für verschiedenste Anwendungsfälle  
+- 🔧 **Prozessautomatisierung** – Workflows optimieren und automatisieren mit BPMN und DMN  
+- 🤖 **AI-Integration** – KI-Agenten als Teilnehmer in ausführbaren Prozessen, nicht als Black-Box daneben  
+- 🐾 **Autonome Agenten-Teams** – [OpenClaw](https://openclaw.ai)-Contributor (seit heute 🎉) · auf OpenClaw-Basis entsteht die [ProcessCube Agent Runtime](https://docs.processcube.io/agents) — Agenten in echten - BPMN-Prozessen  
+- 🏠 **Smart Home** – Home Assistant und IoT-Experimente in der Freizeit  
+- 🔌 **Node-RED** – Low-Code-Automatisierung für verschiedenste Anwendungsfälle  
 
 ## Aktuelle Projekte
 - **ProcessCube Agent Runtime** – eine offene Agenten-Laufzeitumgebung: BPMN als *eine Quelle der Wahrheit*, Agenten führen Routine in ihrer Lane aus, der Mensch gibt frei. Offen bei Modell (Claude Code, Codex, Ollama, OpenRouter) und Sandbox — On-Premise oder Cloud, kein Lock-in
